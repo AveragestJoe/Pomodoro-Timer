@@ -2,6 +2,8 @@
 A great way to keep on track ...
   hopefully!
 
+After 7 months, 3 iterations, and about 12 hours straight of coding I finally got this project together! It's a pico-powered Pomodoro study timer. About a year ago I learned about the Pomodoro method of pacing study/work sessions and fell in love. I had issues with the ones on web pages because I couldn't take them with me on my brakes and the mobile versions cost money, so I decided to spend triple that on making a physical timer dedicated to the Italian tomato timer gods. I do plan to add more functionality down the line so stay tuned.
+
 The encloser model can be found at my THANGS profile
 - https://social.thangs.com/m/421297
 
