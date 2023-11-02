@@ -14,10 +14,10 @@ RP 2040 Pico: https://www.adafruit.com/product/4864 \
 Power button: https://www.adafruit.com/product/1443 \
 Battery: https://www.adafruit.com/product/1578 \
 Battery Charger: https://www.adafruit.com/product/4410 \
-The speaker I pulled out of a chaep pair of over ear head phones, so... \
+The speaker I pulled out of a chaep pair of over ear head phones, so...
 
 Future function: \
 2-Position swith: https://www.adafruit.com/product/3221 \
-Momentary button: https://www.adafruit.com/product/1439 \
+Momentary button: https://www.adafruit.com/product/1439
 
 good luck finding that!
